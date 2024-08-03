@@ -1,0 +1,6 @@
+Requirement :
+Le projet nécessite l'utilisation des bibliothèques Pygame et Random. Les pré-requis pour le lancement et le fonctionnement du projet comprennent spécifiquement les éléments suivants :
+- Importation de Pygame via la déclaration "import pygame".
+- Importation des constantes locales de Pygame via la déclaration "from pygame.locals import *".
+- Importation de la fonction de mélange aléatoire via la déclaration "from random import shuffle".
+Il est impératif de lancer le script 'main.py' pour démarrer le projet.
